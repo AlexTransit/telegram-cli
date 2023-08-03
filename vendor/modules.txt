@@ -1,0 +1,18 @@
+# github.com/aliforever/go-tdlib v0.2.7
+## explicit; go 1.18
+github.com/aliforever/go-tdlib
+github.com/aliforever/go-tdlib/config
+github.com/aliforever/go-tdlib/entities
+github.com/aliforever/go-tdlib/incomingevents
+github.com/aliforever/go-tdlib/outgoingevents
+# github.com/google/uuid v1.3.0
+## explicit
+github.com/google/uuid
+# github.com/sirupsen/logrus v1.9.0
+## explicit; go 1.13
+github.com/sirupsen/logrus
+# golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8
+## explicit; go 1.17
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
+golang.org/x/sys/windows

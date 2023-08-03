@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "console": "integratedTerminal",
+            "name": "test",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceFolder}/telegram-cli.go",
+            // "env": {"DEBUG_AS_ROOT": "true",},
+            // "args": ["apiId=22271780","apiHash=3b499a3a73459c8786ba8818f2e70d96","message=bla blawww20","chatId=2056739600","configDir=./maked"],
+            "args": ["apiId=22271780","apiHash=3b499a3a73459c8786ba8818f2e70d96","message=bla blawww20","chatId=122151403","configDir=./maked"],
+        },
+ 
+    ]
+}
